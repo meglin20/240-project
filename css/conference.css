@@ -1,0 +1,7 @@
+.text-toogle[aria-expanded="false"] .bi-chevron-up {
+    display: none;
+}
+
+.text-toogle[aria-expanded="true"] .bi-chevron-right {
+    display: none;
+}

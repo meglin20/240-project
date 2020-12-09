@@ -1,0 +1,97 @@
+body {
+  background-color: #f3f3f3;
+  font-family: canada-type-gibson;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.carCap {
+  padding: 10px;
+  margin: 0px 20px;
+}
+
+.carousel-caption {
+  background-color: #00afefcc;
+}
+
+.footer {
+  background-color: #dfdfdf;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.moc {
+  padding: 0px 0px 0px 8px;
+}
+
+.startImage {
+  max-height: 575px;
+}
+
+.highlightImg {
+  max-height: 100%;
+}
+
+.logo {
+  width: 140px;
+}
+
+.footer-logo {
+  width: 35px;
+}
+
+.highlight-title {
+  color: black;
+}
+
+code {
+  font-size: 80%;
+}
+
+
+.text-toogle[aria-expanded="false"] .bi-chevron-up {
+  display: none;
+}
+
+.text-toogle[aria-expanded="true"] .bi-chevron-right {
+  display: none;
+}
+
+.jcgrow, #carouselInsights {
+  background-image: linear-gradient(#00afefc4, #1C75BC);
+
+  color: white;
+}
+
+.nav-item:hover {
+  border-bottom: 3px solid #1C75BC;
+}
+
+header nav {
+  border-bottom: 8px solid #1C75BC;
+}
+
+.btn-primary {
+  background-color: #1C75BC;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#b1aea7;
+}
+
+.accordion button {
+  color: black;
+}
+
+
+
